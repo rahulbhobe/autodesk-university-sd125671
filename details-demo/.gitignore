@@ -1,0 +1,7 @@
+#.vs directoy is used by Visual Studio
+/.vs/
+obj/
+bin/
+/packages/
+*.user
+*.log
